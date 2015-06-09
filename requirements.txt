@@ -1,5 +1,7 @@
 Flask>=0.10.1
 leancloud-sdk>=1.0.9
+requests>=2.7.0
+lxml>=3.4.4
 pyopenssl
 ndg-httpsclient
 pyasn1
